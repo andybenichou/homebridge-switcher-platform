@@ -362,7 +362,7 @@ Please verify that your Switcher device is connected to the network and under th
 ### other
 
 
-If you experience any issues with the plugins please refer to the [Issues](https://github.com/nitaybz/homebridge-switcher-platform/issues) tab or [Switcher-Boiler Discord Channel](https://discord.gg/7DyabQ6) and check if your issue is already described there, if it doesn't, please report a new issue with as much detailed information as you can give (logs are crucial).<br>
+If you experience any issues with the plugins please refer to the [Issues](https://github.com/andybenichou/homebridge-switcher-platform/issues) tab or [Switcher-Boiler Discord Channel](https://discord.gg/7DyabQ6) and check if your issue is already described there, if it doesn't, please report a new issue with as much detailed information as you can give (logs are crucial).<br>
 if you want to even speed up the process, you can add `"debug": true` to your config, which will give me more details on the logs and speed up fixing the issue.
 
 

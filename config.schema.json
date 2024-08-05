@@ -2,7 +2,7 @@
   "pluginAlias": "SwitcherPlatform",
   "pluginType": "platform",
   "singular": true,
-  "headerDisplay": "Homebridge plugin for Switcher smart accessories - if you're having troubles installing the plugin, please Read the <a target=\"_blank\" href=\"https://github.com/nitaybz/homebridge-switcher-platform/blob/master/README.md\">README.md</a> file fully, and submit an issue if the problem persist",
+  "headerDisplay": "Homebridge plugin for Switcher smart accessories - if you're having troubles installing the plugin, please Read the <a target=\"_blank\" href=\"https://github.com/andybenichou/homebridge-switcher-platform/blob/master/README.md\">README.md</a> file fully, and submit an issue if the problem persist",
   "footerDisplay": "Created by @nitaybz",
   "schema": {
       "type": "object",
@@ -48,7 +48,7 @@
                   },
                   "accessoryType": {
                       "title": "Accessory Type",
-                      "description": "Accessory Type and Icon for this specific device - affect functionality (read more in the <a target=\"_blank\" href=\"https://github.com/nitaybz/homebridge-switcher-platform/blob/master/README.md\">README.md</a> file)",
+                      "description": "Accessory Type and Icon for this specific device - affect functionality (read more in the <a target=\"_blank\" href=\"https://github.com/andybenichou/homebridge-switcher-platform/blob/master/README.md\">README.md</a> file)",
                       "type": "string",
                       "required": false,
                       "oneOf": [

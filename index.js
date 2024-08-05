@@ -1,5 +1,5 @@
 const Switcher = require('./lib/switcher')
-const PLUGIN_NAME = 'homebridge-switcher-platform'
+const PLUGIN_NAME = 'homebridge-switcher-platform-andy'
 const PLATFORM_NAME = 'SwitcherPlatform'
 module.exports = (api) => {
 	api.registerPlatform(PLUGIN_NAME, PLATFORM_NAME, SwitcherPlatform)

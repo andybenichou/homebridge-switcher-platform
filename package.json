@@ -1,10 +1,10 @@
 {
-  "name": "homebridge-switcher-platform",
+  "name": "homebridge-switcher-platform-andy",
   "description": "Homebridge plugin for Switcher Smart Accessories",
   "version": "4.4.7",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nitaybz/homebridge-switcher-platform.git"
+    "url": "git://github.com/andybenichou/homebridge-switcher-platform.git"
   },
   "license": "MIT",
   "preferGlobal": true,
@@ -17,7 +17,7 @@
     "boiler"
   ],
   "bugs": {
-    "url": "https://github.com/nitaybz/homebridge-switcher-platform/issues"
+    "url": "https://github.com/andybenichou/homebridge-switcher-platform/issues"
   },
   "engines": {
     "node": ">=15.0.0",
